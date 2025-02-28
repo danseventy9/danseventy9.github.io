@@ -123,7 +123,7 @@ div.ribbons p {
     padding-bottom:20px;
 }
 
-.first_row, .second_row, .third_row {
+#first_row, #second_row, #third_row {
     img {
         width: 300px;
     }
